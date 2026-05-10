@@ -1,6 +1,6 @@
 # Hi there, I'm Mikołaj Skarbek! 👋
 
-I am a student of **Applied Informatics** at Wrocław University of Science and Technology and an aspiring software developer. Currently, I am gaining experience as a **Backend Go Developer** at the Ignite science club.
+I am a student of **Applied Informatics** at Wrocław University of Science and Technology and an aspiring software developer. Currently, I am gaining experience as a **Backend Go Developer** at the IgnITe science club.
 
 ### 🛠 Tech Stack
 * **Languages:** Go, Python, Swift (SwiftUI)
