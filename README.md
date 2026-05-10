@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Mikołaj Skarbek! 👋
 
-<!--
-**skarbus67/skarbus67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student of **Applied Informatics** at Wrocław University of Science and Technology and an aspiring software developer. Currently, I am gaining experience as a **Backend Go Developer** at the Ignite science club.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Languages:** Go, Python, Swift (SwiftUI)
+* **Tools:** Docker, SwiftData, Git & GitHub flow
+* **Soft Skills:** Problem solving, multitasking, and effective communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+* **Corks:** An offline iOS application for tutors to manage students and finances using SwiftData.
+* **Domino's Promo Automator:** A Python-based automation tool for discount codes using Playwright and/or CapMonster API.
+* **Dog App:** A web application in Go using concurrency (goroutines and channels) to fetch data from external APIs.
+
+### 📫 Get in touch
+* **Email:** [wroclawska148@gmail.com](mailto:wroclawska148@gmail.com)
+* **Location:** Wrocław, Poland
+
+![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarbus67&show_icons=true&theme=radical)
