@@ -15,5 +15,3 @@ I am a student of **Applied Informatics** at Wrocław University of Science and 
 ### 📫 Get in touch
 * **Email:** [wroclawska148@gmail.com](mailto:wroclawska148@gmail.com)
 * **Location:** Wrocław, Poland
-
-![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarbus67&show_icons=true&theme=radical)
