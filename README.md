@@ -3,8 +3,8 @@
 I am a student of **Computer Science** at Wrocław University of Science and Technology and an aspiring software developer. Currently, I am gaining experience as a **Backend Go Developer** at the IgnITe science club.
 
 ### 🛠 Tech Stack
-* **Languages:** Go, Python, Swift (SwiftUI)
-* **Tools:** Docker, SwiftData, Git & GitHub flow
+* **Languages:** Go, Python, Java
+* **Tools:** Docker, Git & GitHub flow
 * **Soft Skills:** Problem solving, multitasking, and effective communication
 
 ### 🚀 Featured Projects
