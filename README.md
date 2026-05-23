@@ -8,9 +8,9 @@ I am a student of **Computer Science** at Wrocław University of Science and Tec
 * **Soft Skills:** Problem solving, multitasking, and effective communication
 
 ### 🚀 Featured Projects
-* **Corks:** An offline iOS application for tutors to manage students and finances using SwiftData.
 * **Domino's Promo Automator:** A Python-based automation tool for discount codes using Playwright and/or CapMonster API.
 * **Dog App:** A web application in Go using concurrency (goroutines and channels) to fetch data from external APIs.
+* **Corks:** An offline iOS application for tutors to manage students and finances using SwiftData.
 
 ### 📫 Get in touch
 * **LinkedIn:** [Mikolaj Skarbek](https://www.linkedin.com/in/mikołaj-skarbek-838239317)
