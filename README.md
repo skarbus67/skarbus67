@@ -13,5 +13,6 @@ I am a student of **Computer Science** at Wrocław University of Science and Tec
 * **Dog App:** A web application in Go using concurrency (goroutines and channels) to fetch data from external APIs.
 
 ### 📫 Get in touch
+* **LinkedIn:** [Mikolaj Skarbek](https://www.linkedin.com/in/mikołaj-skarbek-838239317)
 * **Email:** [wroclawska148@gmail.com](mailto:wroclawska148@gmail.com)
 * **Location:** Wrocław, Poland
